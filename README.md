@@ -40,7 +40,7 @@ The dataset used in this project includes multiple CSV files:
 
 ## 📊 Dashboard Screenshot
 
-![Maven Market Sales Dashboard](Screenshot%202025-03-22%20125318.jpg)
+![Maven Market Sales Dashboard](Maven_Market_Sales_Dashboard.jpg)
 
 ---
 
