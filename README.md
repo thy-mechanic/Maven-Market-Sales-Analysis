@@ -55,7 +55,7 @@ The dataset used in this project includes multiple CSV files:
 
 ## 🌐 Repository Contents
 
-- **Power BI Dashboard File:** [Upload the .pbix file here if applicable]
+- **Power BI Dashboard File:** [https://github.com/thy-mechanic/Maven-Market-Sales-Analysis/raw/refs/heads/main/Maven_Market_Report.pbix]
 - **`MavenMarket_Dataset_Files.zip`:** Contains all the CSV files used in this analysis.
 - **Dashboard Screenshot:** Provides a visual overview of the dashboard.
 
