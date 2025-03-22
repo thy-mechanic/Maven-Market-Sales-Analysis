@@ -1,5 +1,4 @@
-# Maven-Market-Sales-Analysis
-"Sales and profit analysis of Maven Market through a dynamic Power BI dashboard. Discover insights from over 1 lakh transactions with interactive visualizations!"
+# Maven Market Sales Dashboard
 
 An interactive Power BI dashboard analyzing sales trends, product performance, and customer data for Maven Market. This project leverages Power BI's capabilities, including DAX measures, interactive slicers, and various visualizations, to provide actionable business insights.
 
@@ -20,6 +19,20 @@ An interactive Power BI dashboard analyzing sales trends, product performance, a
 
 - **Interactive Filters:**
   - Slicers for region, product brand, and transaction dates to filter and explore data dynamically.
+
+---
+
+## 📌 Performance Insights  
+
+- **Portland** reached **1,000 sales in December**, making it a top-performing store to close out the year.  
+- **High Top product returns** doubled in Mexico (from **4 to 8**), leading to a **return rate of 1.2%**.  
+- **Plato products** drove the strongest overall **profit margin (63.55%) in 1998**.  
+
+### Additional Insights:
+- **Hermanos** emerged as the **top product brand**, generating the highest total transactions and profit.  
+- **Sales trends** reveal that **North America** consistently performed better than other regions in terms of both transaction volume and profitability.  
+- The company achieved a **weekly revenue trend increase in Q4**, possibly due to **seasonal demand**.  
+- Despite exceeding sales goals, **returns increased slightly**, indicating potential areas for improvement in **product quality or customer satisfaction**.
 
 ---
 
@@ -55,8 +68,8 @@ The dataset used in this project includes multiple CSV files:
 
 ## 🌐 Repository Contents
 
-- **Power BI Dashboard File:** [https://github.com/thy-mechanic/Maven-Market-Sales-Analysis/raw/refs/heads/main/Maven_Market_Report.pbix]
-- **`MavenMarket_Dataset_Files.zip`:** Contains all the CSV files used in this analysis.
+- **Power BI Dashboard File:** [https://github.com/thy-mechanic/Maven-Market-Sales-Analysis/raw/refs/heads/main/Maven_Market_Report.pbix]  
+- **`MavenMarket_Dataset_Files.zip`:** Contains all the CSV files used in this analysis.  
 - **Dashboard Screenshot:** Provides a visual overview of the dashboard.
 
 ---
@@ -69,6 +82,5 @@ This project demonstrates my ability to work with large datasets, create dynamic
 
 ## 👫 Connect with Me
 
-Check out my other projects on GitHub or connect with me on [LinkedIn](https://www.linkedin.com).
+Check out my other projects on GitHub or connect with me on [LinkedIn](https://www.linkedin.com).  
 
----
