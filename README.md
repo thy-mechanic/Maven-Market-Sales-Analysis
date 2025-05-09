@@ -82,5 +82,5 @@ This project demonstrates my ability to work with large datasets, create dynamic
 
 ## 👫 Connect with Me
 
-Check out my other projects on GitHub or connect with me on [LinkedIn](https://www.linkedin.com).  
+Check out my other projects on GitHub or connect with me on [LinkedIn](https://www.linkedin.com)   
 
